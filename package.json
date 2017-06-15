@@ -1,0 +1,32 @@
+{
+  "name": "create-draw-function",
+  "version": "0.0.1",
+  "description": "Create a WebGL draw call based on user provided data",
+  "main": "src/create-draw-function.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "standard && tape test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinedufn/create-draw-function.git"
+  },
+  "keywords": [
+    "gl",
+    "webgl",
+    "draw",
+    "call",
+    "function",
+    "canvas",
+    "automate",
+    "automatic"
+  ],
+  "author": "Chinedu Francis Nwafili <frankie.nwafili@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chinedufn/create-draw-function/issues"
+  },
+  "homepage": "https://github.com/chinedufn/create-draw-function#readme"
+}
