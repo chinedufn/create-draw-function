@@ -39,6 +39,7 @@ module.exports = createDrawFunction
  *
  * TODO: [pref] Create separate enable function that let you control all or some attributes
  * TODO: Detailed commenting
+ * TODO: Instead of passing in attribute and uniform data just read it from the shader program directly
  */
 function createDrawFunction (gl, program, attributeData, uniformData, elementBuffer, numIndices, textures) {
   // Loop through each attribute and generate a string of JavaScript
